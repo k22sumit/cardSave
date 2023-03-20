@@ -1,16 +1,4 @@
 # cards
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![AddCardScreen](https://user-images.githubusercontent.com/106948417/226269674-28179ed2-ce6a-4caa-a46a-098a5d231052.jpg)
+![HomePage](https://user-images.githubusercontent.com/106948417/226269687-d91b38bd-bdf7-4a89-98e5-e167da3e751b.jpg)
